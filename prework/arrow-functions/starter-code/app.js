@@ -204,5 +204,3 @@ console.log(joe.scopeArrow());
 //
 // 3. Explain why "this" is different when an arrow function is used. the big deffrents between arrow functions 
 //
-
-
